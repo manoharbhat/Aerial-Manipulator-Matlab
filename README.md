@@ -13,16 +13,17 @@ Inputs -  Reference speed and errors in Altitude, roll, pitch, and yaw
 ![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/controller%20block.jpg)
 
 The Quadrotor 3D model - Base and Sensor senses and gives the current roll, pitch, yaw, altitude and position. 
-![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/Quadcopter Block.jpg)
+![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/Quadcopter%20block.jpg))
 
 The speed of motors are sent to the PID controller block and each controlled speed is given
-![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/PID block.jpg)
+![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/PID%20block.jpg)
 
 
 
 The Quadcopter CAD model using Solidworks
 
-![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/Front view.jpg)
-![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/side view.jpg)
-![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/top view.jpg)
+![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/Front%20view.jpg)
+![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/side%20view.jpg)
+![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/top%20view.jpg)
 
+Details available in report
