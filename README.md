@@ -23,7 +23,11 @@ The speed of motors are sent to the PID controller block and each controlled spe
 The Quadcopter CAD model using Solidworks
 
 ![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/Front%20view.jpg)
+
+
 ![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/side%20view.jpg)
+
+
 ![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/top%20view.jpg)
 
 Details available in report
