@@ -10,7 +10,7 @@ Simulink Blocks
 Controller Block 
 Inputs -  Reference speed and errors in Altitude, roll, pitch, and yaw
 
-![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/controllerblock.jpg)
+![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/controller%20block.jpg)
 
 The Quadrotor 3D model - Base and Sensor senses and gives the current roll, pitch, yaw, altitude and position. 
 ![](https://github.com/manoharbhat/Aerial-Manipulator-Matlab/blob/main/Quadcopter Block.jpg)
