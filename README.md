@@ -1,5 +1,5 @@
 # Aerial-Manipulator-Matlab
-An Aerial Manipulator consisting of a PID controlled quadcopter( Tarot 750 ) and a 3dof robotic arm. The objective is to go to the selected tree, perch on to the tree branch and cut it using the robotic arm. A detailed analysis of the Quadcopter was done. 
+An Aerial Manipulator consisting of a PID controlled quadcopter( Tarot 750 ) and a 2dof robotic arm. The objective is to go to the selected tree, perch on to the tree branch and cut it using the robotic arm. A detailed analysis of the Quadcopter was done. 
 
 Matlab Simulink was used to execute the PID controlled aerial manipulator and SimMechanics was used to visualise the implementation.
 
